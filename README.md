@@ -6,6 +6,40 @@ This is the Personal-bookshelf with React.js, this is the assessment for the ent
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+
+- Real-time book search using the Open Library API
+- Add books to a personal bookshelf
+- View and manage the personal bookshelf
+- Persistent data using localStorage
+
+## Tech Stack
+
+- React
+- Axios for API requests
+- React Router for navigation
+- CSS Modules for styling
+
+## Setup and Installation
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js (v14 or later)
+- npm (v6 or later)
+
+### Steps to Set Up the Project Locally
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/V-mandloi/Personal-Bookshelf.git
+   cd Personal-Bookshelf
+   npm install
+   npm start
+
+
 ## Available Scripts
 
 In the project directory, you can run:
