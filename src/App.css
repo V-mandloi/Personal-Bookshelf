@@ -1,0 +1,17 @@
+/* src/App.css */
+.book-results {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.book-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+  width: 200px;
+}
+
+.bookshelf {
+  display: flex;
+  flex-wrap: wrap;
+}
