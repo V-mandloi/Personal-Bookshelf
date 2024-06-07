@@ -1,8 +1,8 @@
 /* src/App.css */
-.book-results {
+/* .book-results {
   display: flex;
   flex-wrap: wrap;
-}
+} */
 
 .book-card {
   border: 1px solid #ddd;
@@ -11,7 +11,7 @@
   width: 200px;
 }
 
-.bookshelf {
+/* .bookshelf {
   display: flex;
   flex-wrap: wrap;
-}
+} */
